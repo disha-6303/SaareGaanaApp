@@ -37,9 +37,6 @@ A basic and raw version of a music streaming application, similar to Spotify, bu
 ## 👩‍💻 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. 😊
 
-## 📄 License
-This project is **open-source** and available under the MIT License.
-
 ## 📬 Contact
 For any queries, feel free to reach out:
 - **GitHub:** [disha-6303](https://github.com/disha-6303)
